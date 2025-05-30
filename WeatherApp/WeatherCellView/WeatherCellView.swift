@@ -28,7 +28,7 @@ struct WeatherCellView: View {
                 .padding()
                 Spacer()
                 HStack {
-                    Label("\(viewModel.maxWind) m/s", systemImage: "wind")
+                    Label("\(viewModel.maxWind) km/h", systemImage: "wind")
                         .font(.custom("SF Pro Display", size: 23))
                         .foregroundStyle(.white)
                     Spacer()
