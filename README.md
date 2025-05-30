@@ -1,3 +1,3 @@
 Main screen|
 -|
-![Main screen](https://github.com/user-attachments/assets/ecd8474b-28ee-4727-886f-157c14b53a40)|
+![Main screen](https://github.com/user-attachments/assets/1cd68b1e-a66e-48e6-bcbf-c930d3995dd8)|
